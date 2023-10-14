@@ -26,5 +26,8 @@ Within this diagram encapsulates the visualization area of my Command-Pattern Se
 # Exeuction Phase of the Smart Automatation System
 In this phase encapsulates the testing phase, in which the program is ensured to run as itended to be. The Smart Automative system ensures the choices are accomplished and meeting it's -ends.
 
+<img width="633" alt="OUTPUT_1_CHUA_COMM_PATTERN" src="https://github.com/VinceTedChua/command-pattern/assets/142372312/20a0e65c-a6d0-47ea-be2c-957bc01e1712">
+
+<img width="429" alt="OUTPUT_2_CHUA_COMM_PATTERN" src="https://github.com/VinceTedChua/command-pattern/assets/142372312/98c495a2-c62c-4fa0-a76b-3cc3d2b43dc8">
 
 
