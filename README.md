@@ -20,8 +20,7 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
 # UML Diagram
 Within this diagram encapsulates the visualization area of my Command-Pattern Sequence. Starting From Client and all the way to it's end.
 
-<img width="1743" alt="SS_CSL311-18_WK7-8_UML_CHUA" src="https://github.com/VinceTedChua/command-pattern/assets/142372312/77e4908c-bacb-45c8-b204-3ed4c3c5acc4">
-
+<img width="1755" alt="SS_CSL311-18_WK7-8_UML_CHUA" src="https://github.com/VinceTedChua/command-pattern/assets/142372312/cc3b9ec6-43dc-4733-a748-81db856e8d31">
 
 
 # Exeuction Phase of the Smart Automatation System
